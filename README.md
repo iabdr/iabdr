@@ -14,6 +14,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abd-ar)
 
+## ・Socials:
 <a href="https://twitter.com/abd_ink">
   <img align="left" alt="Anurag Hazra | Twitter" width="21px" src="https://cdn.discordapp.com/attachments/730377109301756024/868494812075135046/icons8-twitter-96.png" />
 </a>
