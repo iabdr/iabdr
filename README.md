@@ -2,8 +2,8 @@
 - I’m Abd, a Student, Developer and Learner.
 - I’m interested in Web & App Development.
 - I’m currently learning Flutter, React Native & Python.
-- I’m currently working on something cool. <!--   <br>
-
+- I’m currently working on something cool. 
+<!--   <br>
 <img align="right" alt="GIF" src="https://cdn.discordapp.com/attachments/730410306970320916/765613934538784809/1_V4cV-UpcOn5sJ3hB75vdvA.gif" width="500" height="320" />
 <br> •    -->
 
