@@ -14,5 +14,4 @@
  
 ![Abd's GitHub stats](https://github-readme-stats.vercel.app/api?username=abd-ar&show_icons=true&theme=buefy) 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=abd-ar&theme=buefy&fire=FF3860&currStreakLabel=000000&sideLabels=000000&dates=000000&sideNums=FF3860)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=abd-ar&theme=buefy)](https://git.io/streak-stats)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abd-ar&label=Profile%20views&color=0e75b6&style=flat" alt="abd-ar" /> </p>
