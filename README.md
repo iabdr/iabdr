@@ -23,3 +23,15 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abd-ar&layout=compact)
 <!--   ![Abd's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=abd-ar) •    -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abd-ar&label=Profile%20views&color=0e75b6&style=flat" alt="abd-ar" /> </p>
+
+a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=material-palenight" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=material-palenight" />
