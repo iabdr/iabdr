@@ -2,7 +2,7 @@ Hi there, <a href="https://www.gautamkrishnar.com/"><img src="https://distok.top
 
 <a href="https://emoji.gg/emoji/1815-graysmalldot"><img src="https://emoji.gg/assets/emoji/1815-graysmalldot.png" width="25px"></a>Hi, I’m Abd.
 
-<a href="https://emoji.gg/emoji/1476-redsmalldot"><img src="https://emoji.gg/assets/emoji/1476-redsmalldot.png" width="25px" height="25px" alt="RedSmallDot"></a>I’m interested in Web & App Development. 
+<a href="https://emoji.gg/emoji/1476-redsmalldot"><img src="https://emoji.gg/assets/emoji/1476-redsmalldot.png" width="25px" height="0px" alt="RedSmallDot"></a>I’m interested in Web & App Development. 
 
 <a href="https://emoji.gg/emoji/1246-yellowsmalldot"><img src="https://emoji.gg/assets/emoji/1246-yellowsmalldot.png" width="25px" height="25px" alt="YellowSmallDot"></a>I’m currently learning Flutter, React Native & Python.
 
