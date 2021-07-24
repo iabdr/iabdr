@@ -8,4 +8,4 @@
 
 - I’m currently working on something cool.
 
-[![Abd's GitHub stats](https://github-readme-stats.vercel.app/api?username=abd-ar)]
+![Abd's GitHub stats](https://github-readme-stats.vercel.app/api?username=abd-ar)
