@@ -1,5 +1,6 @@
 ## <h1 align="center">Hello, Welcome to my GitHub.<a href="https://www.arstiae.com/"><img src="https://distok.top/stickers/754103543786504244/754108890559283200.gif" width="94px"></a> </h1> 
-- I’m Abd.
+## ・About Me:
+- I’m Abd, a Student, Developer and Learner.
 - I’m interested in Web & App Development.
 - I’m currently learning Flutter, React Native & Python.
 - I’m currently working on something cool.
