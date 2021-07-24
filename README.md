@@ -2,9 +2,9 @@
 - I’m Abd, a Student, Developer and Learner.
 - I’m interested in Web & App Development.
 - I’m currently learning Flutter, React Native & Python.
-- I’m currently working on something cool. <br>
+- I’m currently working on something cool. <!--   <br>
 
-<!--   <img align="right" alt="GIF" src="https://cdn.discordapp.com/attachments/730410306970320916/765613934538784809/1_V4cV-UpcOn5sJ3hB75vdvA.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="https://cdn.discordapp.com/attachments/730410306970320916/765613934538784809/1_V4cV-UpcOn5sJ3hB75vdvA.gif" width="500" height="320" />
 <br> •    -->
 
 ## ・Tools & Technologies:
@@ -18,8 +18,13 @@
 
  
 
-![Abd's GitHub stats](https://github-readme-stats.vercel.app/api?username=abd-ar&show_icons=true&theme=buefy)![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=abd-ar&theme=buefy&fire=FF3860&currStreakLabel=000000&sideLabels=000000&dates=000000&sideNums=FF3860)
+![Abd's GitHub stats](https://github-readme-stats.vercel.app/api?username=abd-ar&show_icons=true&theme=buefy) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=abd-ar&theme=buefy&fire=FF3860&currStreakLabel=000000&sideLabels=000000&dates=000000&sideNums=FF3860)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abd-ar&layout=compact)
 <!--   ![Abd's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=abd-ar) •    -->
+
+<br>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JayantGoel001/JayantGoel001/e88d7fa97a84fc05c8247ac8e1b48af5ee8a6a9b/github-contribution-grid-snake.svg" width="500" height="320" />
+<br>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abd-ar&label=Profile%20views&color=0e75b6&style=flat" alt="abd-ar" /> </p>
