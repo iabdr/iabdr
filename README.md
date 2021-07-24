@@ -10,6 +10,6 @@
 
 ‧₊ — — — — — — — ₊˚ ˊ˗
 
- ## - My Github Stats:
+ ## My Github Stats:
 
 ![Abd's GitHub stats](https://github-readme-stats.vercel.app/api?username=abd-ar)
