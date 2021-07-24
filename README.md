@@ -7,3 +7,5 @@
 - I’m currently learning Flutter, React Native & Python.
 
 - I’m currently working on something cool.
+
+[![Abd's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abd-Ar)](https://github.com/anuraghazra/github-readme-stats)
