@@ -8,10 +8,6 @@
 
 - I’m currently working on something cool.
 
- ## My Github Stats:
-
-‧₊ — — — — — — — ₊˚ ˊ˗
-
+ ## ・My Github Stats:
+ 
 ![Abd's GitHub stats](https://github-readme-stats.vercel.app/api?username=abd-ar)
-
-‧₊ — — — — — — — ₊˚ ˊ˗
