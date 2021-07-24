@@ -10,6 +10,6 @@
 
  ## ・My Github Stats:
  
-![Abd's GitHub stats](https://github-readme-stats.vercel.app/api?username=abd-ar)
+![Abd's GitHub stats](https://github-readme-stats.vercel.app/api?username=abd-ar&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abd-ar&layout=compact)
