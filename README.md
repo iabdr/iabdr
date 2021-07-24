@@ -1,4 +1,4 @@
- ## Hi there, <a href="https://www.arstiae.com/"><img src="https://distok.top/stickers/754103543786504244/754108890559283200.gif" width="54px"></a> 
+ ## Hello. <a href="https://www.arstiae.com/"><img src="https://distok.top/stickers/754103543786504244/754108890559283200.gif" width="54px"></a> 
 ‧₊ — — — — — — — ₊˚ ˊ˗
 - Hi, I’m Abd.
 
