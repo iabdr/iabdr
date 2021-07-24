@@ -13,14 +13,3 @@
 ![Abd's GitHub stats](https://github-readme-stats.vercel.app/api?username=abd-ar)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abd-ar)
-
-## ・Socials:
-<a href="https://twitter.com/abd_ink">
-  <img align="left" alt="Anurag Hazra | Twitter" width="21px" src="https://cdn.discordapp.com/attachments/730377109301756024/868494812075135046/icons8-twitter-96.png" />
-</a>
-<a href="https://discord.gg/rdm2wJs">
-  <img align="left" alt="Abd's Discord" width="21px" src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" />
-</a>
-
-<br />
-<br />
