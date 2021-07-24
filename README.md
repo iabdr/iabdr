@@ -1,4 +1,4 @@
- ## Hi there, <a href="https://www.gautamkrishnar.com/"><img src="https://distok.top/stickers/754103543786504244/754108890559283200.gif" width="54px"></a> 
+ ## Hi there, <a href="https://www.arstiae.com/"><img src="https://distok.top/stickers/754103543786504244/754108890559283200.gif" width="54px"></a> 
 
 - Hi, I’m Abd.
 
@@ -8,4 +8,4 @@
 
 - I’m currently working on something cool.
 
-[![Abd's GitHub stats](https://github-readme-stats.vercel.app/api?username=abd-ar)](https://github.com/anuraghazra/github-readme-stats)
+[![Abd's GitHub stats](https://github-readme-stats.vercel.app/api?username=abd-ar)]
