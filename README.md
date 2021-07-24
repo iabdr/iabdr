@@ -1,5 +1,5 @@
  ## Hello. <a href="https://www.arstiae.com/"><img src="https://distok.top/stickers/754103543786504244/754108890559283200.gif" width="94px"></a> 
-‧₊ — — — — — — — ₊˚ ˊ˗
+ 
 - Hi, I’m Abd.
 
 - I’m interested in Web & App Development.
@@ -8,8 +8,8 @@
 
 - I’m currently working on something cool.
 
-‧₊ — — — — — — — ₊˚ ˊ˗
-
  ## My Github Stats:
 
+‧₊ — — — — — — — ₊˚ ˊ˗
 ![Abd's GitHub stats](https://github-readme-stats.vercel.app/api?username=abd-ar)
+‧₊ — — — — — — — ₊˚ ˊ˗
