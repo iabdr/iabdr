@@ -12,6 +12,4 @@
  
 ![Abd's GitHub stats](https://github-readme-stats.vercel.app/api?username=abd-ar)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abd-ar)
