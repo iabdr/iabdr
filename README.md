@@ -20,9 +20,9 @@
 
 ![Abd's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abd-Ar&show_icons=true&theme=buefy) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Abd-Ar&theme=buefy&fire=FF3860&currStreakLabel=000000&sideLabels=000000&dates=000000&sideNums=FF3860)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abd-ar&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abd-Ar&layout=compact)
 <!--   ![Abd's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=abd-ar) •    -->
 
 <!--   <img src="https://raw.githubusercontent.com/JayantGoel001/JayantGoel001/e88d7fa97a84fc05c8247ac8e1b48af5ee8a6a9b/github-contribution-grid-snake.svg" alt="snake"> •    -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abd-ar&label=Profile%20views&color=0e75b6&style=flat" alt="abd-ar" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Abd-Ar&label=Profile%20views&color=0e75b6&style=flat" alt="abd-ar" /> </p>
