@@ -17,7 +17,7 @@
 
 
  
-
+## ・GitHub Stats:
 ![Abd's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abd-Ar&show_icons=true&theme=buefy)   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abd-Ar&layout=compact)
 <!--   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=abd-ar&theme=buefy&fire=FF3860&currStreakLabel=000000&sideLabels=000000&dates=000000&sideNums=FF3860) •    -->
 <!--   ![Abd's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=abd-ar) •    -->
