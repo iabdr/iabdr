@@ -1,4 +1,4 @@
-## <h1 align="center">Hello, Welcome to my GitHub.<a href="https://im2.ezgif.com/tmp/ezgif-2-508bde6637ad.gif" width="94px"></a> </h1> 
+## <h1 align="center">Hello, Welcome to my GitHub.<img src="https://cdn.discordapp.com/attachments/730410306970320916/871403998471675914/animation_500_krtbhmb6.gif" width="94px"> </h1> 
 - I’m Abd, a Student, Developer, Learner and Graphic Designer.
 - I’m interested in Web & App Development.
 - I’m currently learning Flutter, React Native & Python.
@@ -25,5 +25,3 @@
 <!--   <img src="https://raw.githubusercontent.com/JayantGoel001/JayantGoel001/e88d7fa97a84fc05c8247ac8e1b48af5ee8a6a9b/github-contribution-grid-snake.svg" alt="snake"> •    -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Abd-Ar&label=Profile%20views&color=0e75b6&style=flat" alt="abd-ar" /> </p>
-
-<img src="https://cdn.discordapp.com/attachments/730410306970320916/871403998471675914/animation_500_krtbhmb6.gif" alt="snake">
