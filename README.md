@@ -26,4 +26,4 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Abd-Ar&label=Profile%20views&color=0e75b6&style=flat" alt="abd-ar" /> </p>
 
-<img src="https://cdn.discordapp.com/attachments/730410306970320916/871407161136275496/ezgif.com-gif-maker.gif" alt="snake">
+<img src="https://cdn.discordapp.com/attachments/730410306970320916/871403998471675914/animation_500_krtbhmb6.gif" alt="snake">
