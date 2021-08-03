@@ -25,3 +25,5 @@
 <!--   <img src="https://raw.githubusercontent.com/JayantGoel001/JayantGoel001/e88d7fa97a84fc05c8247ac8e1b48af5ee8a6a9b/github-contribution-grid-snake.svg" alt="snake"> •    -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Abd-Ar&label=Profile%20views&color=0e75b6&style=flat" alt="abd-ar" /> <img alt="Discord" src="https://img.shields.io/discord/730071265469136997?color=%235865F2&label=Join%20Community"> </p> 
+<!--   <img alt="Discord" src="https://img.shields.io/discord/730071265469136997?color=%235865F2&label=Join%20Community&logo=Discord&logoColor=%237289d9">
+<img alt="Discord" src="https://img.shields.io/discord/730071265469136997?color=%235865F2&label=Join%20Community&logo=Discord"> •    -->
