@@ -1,4 +1,4 @@
-## <h1 align="center">Hello, Welcome to my GitHub.<img src="https://cdn.discordapp.com/attachments/923878030710030356/994926057624969266/animation_500_krtbhmb6.gif" width="100px"> </h1> 
+## <h1 align="center">Hello, Welcome to my GitHub.<img src="https://cdn.discordapp.com/attachments/923878030710030356/994926057624969266/animation_500_krtbhmb6.gif" width="10px"> </h1> 
 - I’m Abd, a Student, Developer, Learner and Graphic Designer.
 - I’m interested in Web & App Development.
 - I’m currently learning Flutter, React Native & Python.
