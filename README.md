@@ -81,8 +81,9 @@
 
 <img src="https://raw.githubusercontent.com/iabdr/iabdr/output/snake.svg" alt="Snake animation" />
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<!--
+### Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight) -->
 
 ###
 
@@ -115,3 +116,4 @@
 </div>
 
 ###
+
