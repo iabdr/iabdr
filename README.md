@@ -1,8 +1,6 @@
 <h1 align="center">Hello, Welcome to my GitHub. <img src="https://media.discordapp.net/attachments/923878030382891016/1283506340085633126/WAVE_transparent.gif?ex=66e33ded&is=66e1ec6d&hm=4c10b01dfd404e45383800481f1ebbed2ee10fceb0b3258c7b29712c9fb918a5&=&width=100&height=100" width="100" height="100"></h1>
-
-###
-
 <p align="center">I’m Abd, a Student, Developer, Learner and Designer.</p>
+###
 
 ###
 
@@ -47,11 +45,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" alt="illustrator logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="40" alt="aftereffects logo"  />
+  <img src="https://skillicons.dev/icons?i=ae" height="40" alt="adobeaftereffects logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
@@ -74,7 +72,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=iabdr&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iabdr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
@@ -84,6 +82,11 @@
 <img src="https://raw.githubusercontent.com/iabdr/iabdr/output/snake.svg" alt="Snake animation" />
 
 ###
+
+
+###
+<div align="left">
+<div align="right">
 <img src="https://komarev.com/ghpvc/?username=iabdr&label=Profile%20views&color=0e75b6&style=flat" alt="iabdr" /> </p> 
 <div align="left">
   <a href="http://linkedin.com/in/abdink" target="_blank">
@@ -99,5 +102,6 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="31" height="21" alt="facebook logo"  />
   </a>
 </div>
-
+</div>
+</div>
 ###
