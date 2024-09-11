@@ -1,5 +1,4 @@
-## <h1 align="center">Hello, Welcome to my GitHub.<img src="https://cdn.discordapp.com/attachments/923878030710030356/1133359669495218297/WAVE_transparent.gif" width="100" height="100"> </h1> 
-<h1 align="center">Hello, Welcome to my GitHub.</h1>
+<h1 align="center">Hello, Welcome to my GitHub. <img src="https://media.discordapp.net/attachments/923878030382891016/1283506340085633126/WAVE_transparent.gif?ex=66e33ded&is=66e1ec6d&hm=4c10b01dfd404e45383800481f1ebbed2ee10fceb0b3258c7b29712c9fb918a5&=&width=100&height=100" width="100" height="100"></h1>
 
 ###
 
@@ -82,6 +81,23 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/iabdr/iabdr/output/snake.svg" alt="Snake animation" /> <p align="left"> <img src="https://komarev.com/ghpvc/?username=iabdr&label=Profile%20views&color=0e75b6&style=flat" alt="iabdr" /> </p> 
+<img src="https://raw.githubusercontent.com/iabdr/iabdr/output/snake.svg" alt="Snake animation" />
+
+###
+<img src="https://komarev.com/ghpvc/?username=iabdr&label=Profile%20views&color=0e75b6&style=flat" alt="iabdr" /> </p> 
+<div align="left">
+  <a href="http://linkedin.com/in/abdink" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="31" height="21" alt="linkedin logo"  />
+  </a>
+  <a href="https://discord.gg/kNqvhAQAKE" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="31" height="21" alt="discord logo"  />
+  </a>
+  <a href="https://twitter.com/abdrajax" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="31" height="21" alt="twitter logo"  />
+  </a>
+  <a href="https://www.facebook.com/iabdraja" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="31" height="21" alt="facebook logo"  />
+  </a>
+</div>
 
 ###
