@@ -4,7 +4,7 @@
 💻 I’m currently learning advanced Android development with Kotlin;<br>
 📷 Hobbies: Photography, film making, and novel writing;<br>
 ✨ Fun-Fact: I find inspiration in the intersection of logic and imagination, where art and technology coalesce;<br>
-🔭 I’m currently working on something cool.
+👾 I’m currently working on something cool.
 </p>
 
 ###
