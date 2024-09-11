@@ -1,8 +1,6 @@
 <h1 align="center">Hello, Welcome to my GitHub. <img src="https://media.discordapp.net/attachments/923878030382891016/1283506340085633126/WAVE_transparent.gif?ex=66e33ded&is=66e1ec6d&hm=4c10b01dfd404e45383800481f1ebbed2ee10fceb0b3258c7b29712c9fb918a5&=&width=100&height=100" width="100" height="100"></h1>
 <p align="center">I’m Abd, a Student, Developer, Learner and Designer.</p>
 
-###
-
 <h2 align="left">Tools & Technologies:</h2>
 
 ###
@@ -81,6 +79,7 @@
 <img src="https://raw.githubusercontent.com/iabdr/iabdr/output/snake.svg" alt="Snake animation" />
 
 ###
+
 <div align="left">
   <a href="http://linkedin.com/in/abdink" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="31" height="21" alt="linkedin logo"  />
