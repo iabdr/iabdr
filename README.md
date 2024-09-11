@@ -100,7 +100,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight) -->
 <div align="left">
   <a href="https://open.spotify.com/user/315i5zgatzobw4aimllzpggddqza">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=315i5zgatzobw4aimllzpggddqza&count=5" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=315i5zgatzobw4aimllzpggddqza&count=1" alt="Spotify recently played"  />
   </a>
 </div>
 
@@ -135,3 +135,8 @@
 </div>
 
 ###
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=315i5zgatzobw4aimllzpggddqza)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=315i5zgatzobw4aimllzpggddqza&count={count})
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=315i5zgatzobw4aimllzpggddqza&width={width})
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=315i5zgatzobw4aimllzpggddqza&unique={true|1|on|yes})
