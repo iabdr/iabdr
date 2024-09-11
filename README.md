@@ -108,7 +108,7 @@
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=315i5zgatzobw4aimllzpggddqza&count=1" alt="Spotify recently played" />
   </a>
 </div>
-
+<br>
   <div align="left">
   <a href="http://linkedin.com/in/abdink" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="33" height="23" alt="linkedin logo" />
