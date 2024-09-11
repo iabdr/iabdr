@@ -104,41 +104,38 @@
 <br clear="both">
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
-  
-  <!-- Left Side -->
-  <div style="text-align: left;">
-    <a href="http://linkedin.com/in/abdink" target="_blank" style="margin-right: 5px;">
-      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="33" height="23" alt="linkedin logo" style="border: none; outline: none;" />
+  <div style="display: flex; align-items: center;">
+    <a href="https://open.spotify.com/user/315i5zgatzobw4aimllzpggddqza">
+      <img src="https://spotify-recently-played-readme.vercel.app/api?user=315i5zgatzobw4aimllzpggddqza&count=1" alt="Spotify recently played" />
     </a>
-    <a href="https://discord.gg/kNqvhAQAKE" target="_blank" style="margin-right: 5px;">
-      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="33" height="23" alt="discord logo" style="border: none; outline: none;" />
+    
+    <a href="http://linkedin.com/in/abdink" target="_blank" style="margin-right: 10px;">
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="33" height="23" alt="linkedin logo" />
     </a>
-    <a href="https://twitter.com/abdrajax" target="_blank" style="margin-right: 5px;">
-      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="33" height="23" alt="twitter logo" style="border: none; outline: none;" />
+    <a href="https://discord.gg/kNqvhAQAKE" target="_blank" style="margin-right: 10px;">
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="33" height="23" alt="discord logo" />
     </a>
-    <a href="https://www.instagram.com/abd.ink" target="_blank" style="margin-right: 5px;">
-      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="33" height="23" alt="instagram logo" style="border: none; outline: none;" />
+    <a href="https://twitter.com/abdrajax" target="_blank" style="margin-right: 10px;">
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="33" height="23" alt="twitter logo" />
     </a>
-    <a href="https://www.facebook.com/iabdraja" target="_blank" style="margin-right: 5px;">
-      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="33" height="23" alt="facebook logo" style="border: none; outline: none;" />
+    <a href="https://www.instagram.com/abd.ink" target="_blank" style="margin-right: 10px;">
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="33" height="23" alt="instagram logo" />
+    </a>
+    <a href="https://www.facebook.com/iabdraja" target="_blank" style="margin-right: 10px;">
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="33" height="23" alt="facebook logo" />
     </a>
     <a href="https://www.youtube.com/@rabdink?sub_confirmation=1" target="_blank">
-      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="33" height="23" alt="youtube logo" style="border: none; outline: none;" />
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="33" height="23" alt="youtube logo" />
     </a>
   </div>
 
-  <!-- Right Side -->
   <div style="text-align: right;">
-    <a href="https://open.spotify.com/user/315i5zgatzobw4aimllzpggddqza">
-      <img src="https://spotify-recently-played-readme.vercel.app/api?user=315i5zgatzobw4aimllzpggddqza&count=1" alt="Spotify recently played" style="border: none; outline: none;" />
-    </a>
-    <br/>
     <a href="https://visitcount.itsvg.in">
-      <img src="https://visitcount.itsvg.in/api?id=iabdr&icon=10&color=0" alt="Visitor count" style="border: none; outline: none;" />
+      <img src="https://visitcount.itsvg.in/api?id=iabdr&icon=10&color=0" alt="visit count" />
     </a>
   </div>
-  
 </div>
+
 
 
 
