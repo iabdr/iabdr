@@ -1,5 +1,5 @@
 <h1 align="center">Hello, Welcome to my GitHub. <img src="https://media.discordapp.net/attachments/923878030382891016/1283506340085633126/WAVE_transparent.gif?ex=66e33ded&is=66e1ec6d&hm=4c10b01dfd404e45383800481f1ebbed2ee10fceb0b3258c7b29712c9fb918a5&=&width=100&height=100" width="100" height="100"></h1>
-<p align="center">I’m Abd, a Student, Developer, Learner and Designer.</p>
+<p align="left">I’m Abd, a Student, Developer, Learner and Designer.</p>
 
 ###
 ###
