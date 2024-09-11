@@ -96,11 +96,12 @@
   <a href="https://www.facebook.com/iabdraja" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="31" height="21" alt="facebook logo"  />
   </a>
-</div>
-
-###
-<div align="right">
+  <div align="right">
 
 [![](https://visitcount.itsvg.in/api?id=iabdr&icon=10&color=0)](https://visitcount.itsvg.in)
   </div>
+</div>
+
+###
+
 
