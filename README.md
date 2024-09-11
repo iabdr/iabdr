@@ -100,5 +100,8 @@
 
 ###
 <div align="right">
-<img src="https://komarev.com/ghpvc/?username=iabdr&label=Profile%20views&color=0e75b6&style=flat" alt="iabdr" /> </p> 
+[![](https://visitcount.itsvg.in/api?id=iabdr&icon=10&color=0)](https://visitcount.itsvg.in)
   </div>
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
