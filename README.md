@@ -103,37 +103,44 @@
 
 <br clear="both">
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <div style="display: flex; align-items: center;">
-    <a href="https://open.spotify.com/user/315i5zgatzobw4aimllzpggddqza">
-      <img src="https://spotify-recently-played-readme.vercel.app/api?user=315i5zgatzobw4aimllzpggddqza&count=1" alt="Spotify recently played" />
-    </a>
-    <a href="http://linkedin.com/in/abdink" target="_blank" style="margin-right: 10px;">
-      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="33" height="23" alt="linkedin logo" />
-    </a>
-    <a href="https://discord.gg/kNqvhAQAKE" target="_blank" style="margin-right: 10px;">
-      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="33" height="23" alt="discord logo" />
-    </a>
-    <a href="https://twitter.com/abdrajax" target="_blank" style="margin-right: 10px;">
-      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="33" height="23" alt="twitter logo" />
-    </a>
-    <a href="https://www.instagram.com/abd.ink" target="_blank" style="margin-right: 10px;">
-      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="33" height="23" alt="instagram logo" />
-    </a>
-    <a href="https://www.facebook.com/iabdraja" target="_blank" style="margin-right: 10px;">
-      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="33" height="23" alt="facebook logo" />
-    </a>
-    <a href="https://www.youtube.com/@rabdink?sub_confirmation=1" target="_blank">
-      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="33" height="23" alt="youtube logo" />
-    </a>
-  </div>
-
-  <div style="text-align: right;">
-    <a href="https://visitcount.itsvg.in">
-      <img src="https://visitcount.itsvg.in/api?id=iabdr&icon=10&color=0" alt="visit count" />
-    </a>
-  </div>
-</div>
+<table width="100%">
+  <tr>
+    <!-- Left Column -->
+    <td align="left" style="padding: 0;">
+      <a href="https://open.spotify.com/user/315i5zgatzobw4aimllzpggddqza">
+        <img src="https://spotify-recently-played-readme.vercel.app/api?user=315i5zgatzobw4aimllzpggddqza&count=1" alt="Spotify recently played" style="vertical-align: middle;" />
+      </a>
+    </td>
+    <!-- Right Column -->
+    <td align="right" style="padding: 0;">
+      <a href="http://linkedin.com/in/abdink" target="_blank">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="33" height="23" alt="linkedin logo" />
+      </a>
+      <a href="https://discord.gg/kNqvhAQAKE" target="_blank">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="33" height="23" alt="discord logo" />
+      </a>
+      <a href="https://twitter.com/abdrajax" target="_blank">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="33" height="23" alt="twitter logo" />
+      </a>
+      <a href="https://www.instagram.com/abd.ink" target="_blank">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="33" height="23" alt="instagram logo" />
+      </a>
+      <a href="https://www.facebook.com/iabdraja" target="_blank">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="33" height="23" alt="facebook logo" />
+      </a>
+      <a href="https://www.youtube.com/@rabdink?sub_confirmation=1" target="_blank">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="33" height="23" alt="youtube logo" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="left" colspan="2" style="padding: 0;">
+      <a href="https://visitcount.itsvg.in">
+        <img src="https://visitcount.itsvg.in/api?id=iabdr&icon=10&color=0" alt="visit count" style="vertical-align: middle;" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 
