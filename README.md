@@ -81,6 +81,9 @@
 
 <img src="https://raw.githubusercontent.com/iabdr/iabdr/output/snake.svg" alt="Snake animation" />
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
 ###
 
 <div align="left">
@@ -97,9 +100,6 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="31" height="23" alt="facebook logo"  />
   </a>
   <div align="right">
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 [![](https://visitcount.itsvg.in/api?id=iabdr&icon=10&color=0)](https://visitcount.itsvg.in)
   </div>
