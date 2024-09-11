@@ -128,11 +128,12 @@
   <a href="https://www.youtube.com/@rabdink?sub_confirmation=1" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="33" height="23" alt="youtube logo" />
   </a>
-  <br />
+  </div>
+  <div align="left">
   <a href="https://visitcount.itsvg.in">
     <img src="https://visitcount.itsvg.in/api?id=iabdr&icon=10&color=0" alt="visit count" />
   </a>
-</div>
+    </div>
 
 
 
