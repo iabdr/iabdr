@@ -137,6 +137,6 @@
 ###
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=315i5zgatzobw4aimllzpggddqza)
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=315i5zgatzobw4aimllzpggddqza&count={count})
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=315i5zgatzobw4aimllzpggddqza&width={width})
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=315i5zgatzobw4aimllzpggddqza&count=1)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=315i5zgatzobw4aimllzpggddqza&width=100)
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=315i5zgatzobw4aimllzpggddqza&unique={true|1|on|yes})
