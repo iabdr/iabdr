@@ -1,19 +1,20 @@
-<h1 align="center">Hello, Welcome to my GitHub. <img src="https://media.discordapp.net/attachments/923878030382891016/1283506340085633126/WAVE_transparent.gif?ex=66e33ded&is=66e1ec6d&hm=4c10b01dfd404e45383800481f1ebbed2ee10fceb0b3258c7b29712c9fb918a5&=&width=100&height=100" width="100" height="100"></h1>
-<p align="left">
-🛸 I’m Abd, a Student, Developer, Learner and Designer; <br>
-💻 I’m currently learning advanced Android development with Kotlin;<br>
-📷 Hobbies: Photography, film making, and novel writing;<br>
-✨ Fun-Fact: I find inspiration in the intersection of logic and imagination, where art and technology coalesce;<br>
-👾 I’m currently working on something cool.
+<a href="https://github.com/iabdr/iabdr">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iabdr/iabdr/main/dark.svg">
+    <img alt="GitHub Profile README" src="https://raw.githubusercontent.com/iabdr/iabdr/main/light.svg">
+  </picture>
+  <p align="center">
+  <img
+    src="https://raw.githubusercontent.com/iabdr/iabdr/main/dist/github-jet.svg"
+    alt="GitHub Jet Heatmap"
+    width="100%"
+  />
 </p>
+</a>
 
-###
-###
+<br>
 
 <h2 align="left">Tools & Technologies:</h2>
-
-###
-
 <div align="left">
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -84,58 +85,14 @@
   <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
 </div>
 
-###
-  <h2 align="left">My GitHub Stats:</h2>
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=iabdr&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iabdr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=true&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
+<br>
 
 <img src="https://raw.githubusercontent.com/iabdr/iabdr/output/snake.svg" alt="Snake animation" />
 
-<!--
-### Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight) -->
+<br>
 
-###
-
-<br clear="both">
 <div align="left">
   <a href="https://open.spotify.com/user/31qe5hgf5bsnbm6hwbwq7r7uft7i">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31qe5hgf5bsnbm6hwbwq7r7uft7i&count=1" alt="Spotify recently played" />
   </a>
 </div>
-<br>
-  <div align="left">
-  <a href="http://linkedin.com/in/abdink" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="33" height="20" alt="linkedin logo" />
-  </a>
-  <a href="https://discord.gg/kNqvhAQAKE" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="33" height="20" alt="discord logo" />
-  </a>
-  <a href="https://twitter.com/abdrajax" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="33" height="20" alt="twitter logo" />
-  </a>
-  <a href="https://www.instagram.com/abd.ink" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="33" height="20" alt="instagram logo" />
-  </a>
-  <a href="https://www.facebook.com/iabdraja" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="33" height="20" alt="facebook logo" />
-  </a>
-  <a href="https://www.youtube.com/@rabdink?sub_confirmation=1" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="33" height="20" alt="youtube logo" />
-  </a>
-  </div>
-
-  
-  <div align="right">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=iabdr&icon=10&color=0" alt="visit count" />
-  </a>
-  </div>
-
-
-
-###
